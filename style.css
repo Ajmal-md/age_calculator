@@ -16,7 +16,13 @@
     position: fixed;
     filter: blur(8px);
 }
-
+.heading
+{
+    font-family: "algerian";
+    font-weight: bolder;
+    margin: 50px 560px;
+    font-size: 20px;
+}
 .out
 {
     height: 400px;
