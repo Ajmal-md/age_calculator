@@ -10,6 +10,9 @@ btn.addEventListener('click', function()
     day.innerHTML="";
     mon.innerHTML="";
     yr.innerHTML="";
+    dyr.innerHTML="";
+    dday.innerHTML="";
+    dmon.innerHTML="";
     const dbx1 = parseInt(document.getElementById('dbx1').value); 
     const dbx2 = parseInt(document.getElementById('dbx2').value); 
     const dbx3 = parseInt(document.getElementById('dbx3').value);
